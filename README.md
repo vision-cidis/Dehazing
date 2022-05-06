@@ -1,2 +1,2 @@
 # Dehazing
-Domain adaptation - Syntetic haze images with CARLA
+Domain adaptation - Synthetic haze images with CARLA
